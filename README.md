@@ -18,4 +18,15 @@ En este proyecto, me desempeñaré en el rol de Data Engineer y ML Operations, e
 
 ## Resumen de los procesos:
 ---
-### 1. Proceso de Extracción, Transformación, Carga ([ETL ](https://github.com/AugustoVentura/PI_ML_OPS/blob/main/ETL.ipynb))
+### 1. Proceso de Extracción, Transformación, Carga (ETL)
+
+Se llevo a cabo todo el proceso de ETL para recuperar un nuevo csv con los datos necesarios para llevar a cabo la siguiente parte del proyecto
+
+
+### 2. Implementación API
+
+Se creo una interfaz para poder interactuar el con el modelo, misma que por desgracia fue fecha que no encontre la forma de subirla correctamente al render, me salia un mensaje en el cuál mencionaba que faltaba actualizar mi pip y al revisar la versión con la que contaba, era la actualizada, trate de buscar la solución y dado que tuve el tiempo en mi contra, no pude encontrarla a tiempo
+
+### 3. Analisis exploratorio de datos (EDA)
+
+Se realizó un analisis de los datos para conocer las estadisticas que estas nos podian arrojar, como valores atipicos, el uso más frecuente de palabras, media, moda, mediana, entre otros.
