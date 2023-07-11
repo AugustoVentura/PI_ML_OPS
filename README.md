@@ -3,5 +3,5 @@
 </h1>
 
 <p align="center">
-  <img src="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png" alt="Logo del Proyecto" style="float:right; width:80px;" />
+  <img src="https://stonkstutors.com/wp-content/uploads/2022/07/Soy-Henry-Entiende-como-funciona-la-plataforma-y-si-vale-la-pena.jpg" alt="Logo del Proyecto" style="float:right; width:80px;" />
 </p>
