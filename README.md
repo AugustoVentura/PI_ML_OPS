@@ -3,5 +3,5 @@
 </h1>
 
 <p align="center">
-  <img src="[Image/logo.png](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png" alt="Logo del Proyecto" style="float:right; width:80px;" />
+  <img src="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png" alt="Logo del Proyecto" style="float:right; width:80px;" />
 </p>
